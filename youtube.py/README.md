@@ -1,0 +1,1 @@
+Make your configuration.py file look like configuration-example.py
